@@ -27,8 +27,8 @@ Eclipse Che and {rh-os-devspaces} share all the features - all the product's fun
 
 Eclipse Che hosted by Red Hat has the following usage limits and terms of service:
 
-* Storage: 10 GB
-* RAM: 7 GB
+* Storage: 40 GB
+* RAM: 14 GB
 * Concurrent workspaces: 1
 * Number of workspaces: Unlimited
 * Number of projects per workspace: Unlimited
